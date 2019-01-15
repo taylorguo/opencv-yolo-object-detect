@@ -32,4 +32,4 @@ pip install opencv-python, numpy
 
 ## OpenCV & Object Detection 
 
-https://github.com/arunponnusamy/object-detection-opencv
+[Object detection (YOLO, SSD, Faster R-CNN) ](https://github.com/arunponnusamy/object-detection-opencv)
