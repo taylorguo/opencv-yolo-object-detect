@@ -28,3 +28,8 @@ sh download_trained_files.sh
 ```python
 pip install opencv-python, numpy
 ```
+
+
+## OpenCV & Object Detection 
+
+https://github.com/arunponnusamy/object-detection-opencv
