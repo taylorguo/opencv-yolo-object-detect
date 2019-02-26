@@ -30,6 +30,10 @@ sh download_trained_files.sh
 pip install opencv-python>=3.4, numpy
 ```
 
+## 运行 
+```python
+gunicorn --bind 127.0.0.1:5000 wsgi:app
+```
 
 ## OpenCV & Object Detection 
 
