@@ -18,7 +18,9 @@ sh download_trained_files.sh
 
 ```python
 - Python3.6
+
 - pip install -r r.txt -i https://pypi.douban.com/simple
+
 - yolov3 coco dataset pretrained weights & configure
 ```
 
