@@ -1,0 +1,10 @@
+# Python 3.6.7 :: Anaconda, Inc.
+Flask==1.0.2
+gunicorn==19.9.0
+imutils==0.5.2
+Jinja2==2.10
+numpy==1.15.4
+opencv-python==3.4.3.18
+Pillow==5.3.0
+requests==2.21.0
+Werkzeug==0.14.1

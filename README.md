@@ -17,7 +17,7 @@ sh download_trained_files.sh
 ## Python environment & dependencies ：
 
 - Python3.6
-- opencv-python >= 3.4
+- pip install -r r.txt -i https://pypi.douban.com/simple
 - yolov3 coco dataset pretrained weights & configure
 
 
@@ -26,7 +26,7 @@ sh download_trained_files.sh
 
 - 依赖项安装：
 ```python
-pip install opencv-python, numpy
+pip install opencv-python>=3.4, numpy
 ```
 
 
