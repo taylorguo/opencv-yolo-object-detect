@@ -16,10 +16,11 @@ sh download_trained_files.sh
 
 ## Python environment & dependencies ：
 
+```python
 - Python3.6
 - pip install -r r.txt -i https://pypi.douban.com/simple
 - yolov3 coco dataset pretrained weights & configure
-
+```
 
 ### 安装
 - Python3.6 & pip 请自行安装
